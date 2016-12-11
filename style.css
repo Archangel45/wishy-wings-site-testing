@@ -32,9 +32,13 @@
 
 	
 
-#Katzengif 			
+#Katzengif			
 {
-	position:fixed; float:left; box-sizing:border-box; z-index:3;
+	position:fixed;
+	float:left;
+	box-sizing:border-box;
+	z-index:2;
+	margin: 0 auto;
 }
 
 
